@@ -3,6 +3,7 @@ class Main {
         System.out.print("Это добавлено в ветке main");
         printHelloWorld();
         System.out.println(1,2);
+
     }
 
     public static void printHelloWorld() {
@@ -12,5 +13,11 @@ class Main {
     public static void sum(int a, int b) {
         return a + b;
     }
+
+    public static void smile(){
+        System.out.println(":)");
+    }
+
+
 
 }
