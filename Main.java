@@ -3,7 +3,7 @@ class Main {
         System.out.print("Это добавлено в ветке main");
         printHelloWorld();
         System.out.println(1,2);
-
+        smile();
     }
 
     public static void printHelloWorld() {
