@@ -2,7 +2,9 @@ class Main {
     public static void main(String[] args) {
         System.out.print("Это добавлено в ветке main");
         printHelloWorld();
-        System.out.println(1,2);
+
+        int num = 1;
+        System.out.println(num,2);
         smile();
     }
 
